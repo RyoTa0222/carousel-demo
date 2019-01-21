@@ -1,0 +1,46 @@
+.App {
+  text-align: left;
+  /* background: #333; */
+  height: 100%;
+}
+.title_header{
+  /* color: white; */
+  font-size: 2rem;
+  margin: 4rem 0;
+  text-align: center;
+}
+.horizonal_carousel{
+  margin-bottom: 6rem;
+}
+
+.horizonal_content_message{
+  position: absolute;
+  top: 160px;
+  right: 0;
+  width: 42%;
+  padding: 0 3rem;
+  background: white;
+}
+.content_horizonal{
+  width: 100%;
+  text-align: center;
+  padding-bottom: 2.5rem;
+}
+.horizonal_carousel_container{
+  width: 58%;
+  display: inline-block;
+}
+.vertical_content_message{
+  position: absolute;
+  bottom: -21.5rem;
+  left: 0;
+  width: 30%;
+  padding-left: 7rem;
+  background: white;
+}
+.content_vertical{
+  width: 100%;
+  text-align: center;
+  padding-bottom: 2.5rem;
+  margin-left: 25rem;
+}
